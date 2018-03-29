@@ -1,2 +1,0 @@
-# discord
-s
